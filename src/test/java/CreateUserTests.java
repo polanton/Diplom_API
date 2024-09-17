@@ -111,14 +111,3 @@ public class CreateUserTests {
     }
 
 }
-/*{
-        "success": true,
-        "user": {
-        "email": "test-polanton@yandex.ru",
-        "name": "Username"
-        },
-        "accessToken": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2ZGY2NjkwOWVkMjgwMDAxYjRiMmY3YiIsImlhdCI6MTcyNTkxNjgxNiwiZXhwIjoxNzI1OTE4MDE2fQ.fxNnSrJM4VrhmNSeDQRs-nXVcyn4yPkFJJHUvzCxlPw",
-        "refreshToken": "22cc57592767f9db6e31856885ca0aaedb4f90eefd8de032a16d3a45360064e41c437ad092580cd7"
-        }
-
- */
